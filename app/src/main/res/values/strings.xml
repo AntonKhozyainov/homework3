@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Homework3</string>
+    <string name="add_contact_button">Add contact button</string>
+    <string name="delete">Delete</string>
+    <string name="item_id">id: %1$d</string>
+    <string name="change">Change</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_value">Value is empty</string>
 </resources>
